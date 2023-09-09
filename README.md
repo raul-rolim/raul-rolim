@@ -1,7 +1,4 @@
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr" align = right>
-</p>
+<img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr">
 
 <p>
 <p align=center>
