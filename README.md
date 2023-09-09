@@ -1,9 +1,10 @@
-<img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr">
+<img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top>
 
-<p>
-<p align=center>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr">
-</p>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr">
+
+
+
+
 
 <!--
 **raul-rolim/raul-rolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
