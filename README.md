@@ -10,7 +10,17 @@
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-#### Linguagens: Java, Python, C++, C e Javascript
+#### Linguagens: Python, Java, C, C++ e Javascript
+<!--
+<p align = left>
+
+<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/44a8589e-9755-4249-897d-7f27a43068d7" width= 4%> 
+<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/2707a312-8531-4bbd-b77d-21101e2e4444" width= 4%>
+<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/0ce8f764-9cdf-4df0-939d-48a411e01909" width= 4%>
+<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/0d0a6de2-be0c-46de-9eb8-10bc86709a63" width= 4%>
+-->
+</p>
+
 #### Framework: Pytest (TDD) e Flask
 #### Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn
 #### Banco de Dados: PostgreSQL, MySQL e SQL Server
