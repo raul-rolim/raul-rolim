@@ -2,6 +2,13 @@
 
 <img src = "https://w0.peakpx.com/wallpaper/432/891/HD-wallpaper-rog-8-bit-republic-of-gamers-games-artist-artwork-digital-art-artstation.jpg">
 
+<a href = "https://www.linkedin.com/in/raul-de-luca-roberto-rolim-a5325a17a">
+  
+  <img src= "https://github.com/raul-rolim/raul-rolim/assets/69372064/0ca99497-49c9-42c6-8821-960d31cc431d">
+  
+</a>
+
+
 ## 💻Objetivo 
 #### Estágio na área de tecnologia (desenvolvimento de software, inteligência artificial, machine learning, data science ou engenharia de software)
 #### Tornar-se um polímata da área de tecnologia 
@@ -12,14 +19,6 @@
 ## 💡Experiência (Projetos Acadêmicos)
 
 #### Linguagens: Python, Java, C, C++ e Javascript
-<!--
-<p align = left>
-
-<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/44a8589e-9755-4249-897d-7f27a43068d7" width= 4%> 
-<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/2707a312-8531-4bbd-b77d-21101e2e4444" width= 4%>
-<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/0ce8f764-9cdf-4df0-939d-48a411e01909" width= 4%>
-<img src = "https://github.com/raul-rolim/raul-rolim/assets/69372064/0d0a6de2-be0c-46de-9eb8-10bc86709a63" width= 4%>
--->
 </p>
 
 #### Framework: Pytest (TDD) e Flask
