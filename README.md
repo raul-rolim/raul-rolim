@@ -2,32 +2,30 @@
 
 <img src = "https://w0.peakpx.com/wallpaper/432/891/HD-wallpaper-rog-8-bit-republic-of-gamers-games-artist-artwork-digital-art-artstation.jpg">
 
-
-
 <a href="https://www.linkedin.com/in/raul-de-luca-roberto-rolim-a5325a17a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="8%" ></a>
 
 
 
 ## 💻Objetivo 
-#### Estágio na área de tecnologia (desenvolvimento de software, inteligência artificial, machine learning, data science ou engenharia de software)
-#### Tornar-se um polímata da área de tecnologia 
+Estágio na área de tecnologia (desenvolvimento de software, inteligência artificial, machine learning, data science ou engenharia de software)
+Tornar-se um polímata da área de tecnologia 
 
 ## 🔎Aprendendo Atualmente 
-#### Banco de Dados (SQL Server) e Estrutura de Dados
+Banco de Dados (SQL Server) e Estrutura de Dados
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-#### Linguagens: Python, Java, C, C++ e Javascript
+Linguagens: Python, Java, C, C++ e Javascript
 
-#### Framework: Pytest (TDD) e Flask
-#### Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn
-#### Banco de Dados: PostgreSQL, MySQL e SQL Server
+Framework: Pytest (TDD) e Flask
+Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn
+Banco de Dados: PostgreSQL, MySQL e SQL Server
 
 ## Idiomas
 
-#### Português: Nativo
-#### Inglês: Avançado - C1
-#### Japonês: Iniciante
+Português: Nativo
+Inglês: Avançado - C1
+Japonês: Iniciante
 
 <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top>
 
