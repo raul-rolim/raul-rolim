@@ -2,10 +2,9 @@
 
 <img src = "https://w0.peakpx.com/wallpaper/432/891/HD-wallpaper-rog-8-bit-republic-of-gamers-games-artist-artwork-digital-art-artstation.jpg">
 
-<a href = 'https://www.linkedin.com/in/raul-de-luca-roberto-rolim-a5325a17a' target='_blank'>
-  <img src= "https://github.com/raul-rolim/raul-rolim/assets/69372064/0ca99497-49c9-42c6-8821-960d31cc431d" />
-  
-</a>
+
+<img src= "https://github.com/raul-rolim/raul-rolim/assets/69372064/0ca99497-49c9-42c6-8821-960d31cc431d">
+
 
 
 ## 💻Objetivo 
@@ -18,7 +17,6 @@
 ## 💡Experiência (Projetos Acadêmicos)
 
 #### Linguagens: Python, Java, C, C++ e Javascript
-</p>
 
 #### Framework: Pytest (TDD) e Flask
 #### Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn
@@ -29,6 +27,7 @@
 #### Português: Nativo
 #### Inglês: Avançado - C1
 #### Japonês: Iniciante
+
 <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top>
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr">
