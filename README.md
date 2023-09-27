@@ -21,37 +21,16 @@ Banco de Dados (SQL Server) e Estrutura de Dados  <br/><br/>
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-Linguagens: Python, Java, C, C++ e Javascript
-
-Framework: Pytest (TDD) e Flask
-Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>  
-Banco de Dados: PostgreSQL, MySQL e SQL Server
+<strong>Linguagens:</strong> Python, Java, C, C++ e Javascript  
+<strong>Framework:</strong> Pytest (TDD) e Flask
+<strong>Biblioteca:</strong> Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>
+<strong>Banco de Dados:</strong> PostgreSQL, MySQL e SQL Server
 
 ## Idiomas
 
-Português: Nativo  
-Inglês: Avançado - C1  
-Japonês: Iniciante
+<strong>Português:</strong> Nativo  
+<strong>Inglês:</strong> Avançado - C1  
+<strong>Japonês:</strong> Iniciante
 <br/> <br/>
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top width="30%"> 
-
-
-
-
-
-
-<!--
-**raul-rolim/raul-rolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
