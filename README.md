@@ -32,7 +32,7 @@ Inglês: Avançado - C1
 Japonês: Iniciante
 <br/> <br/>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top width="50.5%"> 
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top width="30%"> 
 
 
 
