@@ -12,25 +12,28 @@ Estágio na área de tecnologia (desenvolvimento de software, inteligência arti
 Tornar-se um polímata da área de tecnologia 
 
 ## 🔎Aprendendo Atualmente 
-Banco de Dados (SQL Server) e Estrutura de Dados
+Banco de Dados (SQL Server) e Estrutura de Dados  <br/><br/>
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr">
+</p>
 
 ## 💡Experiência (Projetos Acadêmicos)
 
 Linguagens: Python, Java, C, C++ e Javascript
 
 Framework: Pytest (TDD) e Flask
-Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn
+Biblioteca: Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>  
 Banco de Dados: PostgreSQL, MySQL e SQL Server
 
 ## Idiomas
 
-Português: Nativo
-Inglês: Avançado - C1
+Português: Nativo  
+Inglês: Avançado - C1  
 Japonês: Iniciante
+<br/> <br/>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top width="50.5%"> 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr">
 
 
 
