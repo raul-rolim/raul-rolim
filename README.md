@@ -33,5 +33,5 @@ Banco de Dados (SQL Server) e Estrutura de Dados  <br/><br/>
 <strong>Japonês:</strong> Iniciante
 <br/> <br/>
 
-<img src = "[![GitHub Streak](https://github-readme-streak-stats-two-puce.vercel.app?user=raul-rolim&theme=merko&border_radius=4&card_width=480)](https://git.io/streak-stats)"> 
+[![GitHub Streak](https://github-readme-streak-stats-two-puce.vercel.app?user=raul-rolim&theme=merko&border_radius=4&card_width=480)](https://git.io/streak-stats)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=merko" align = top width="30%"> 
