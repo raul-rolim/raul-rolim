@@ -16,13 +16,13 @@ Tornar-se um polímata da área de tecnologia
 ## 🔎Aprendendo Atualmente 
 Banco de Dados (SQL Server) e Estrutura de Dados  <br/><br/>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=codeSTACKr">
+  <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=merko">
 </p>
 
 ## 💡Experiência (Projetos Acadêmicos)
 
 <strong>Linguagens:</strong> Python, Java, C, C++ e Javascript  
-<strong>Framework:</strong> Pytest (TDD) e Flask
+<strong>Framework:</strong> Pytest (TDD) e Flask  
 <strong>Biblioteca:</strong> Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>
 <strong>Banco de Dados:</strong> PostgreSQL, MySQL e SQL Server
 
@@ -33,4 +33,5 @@ Banco de Dados (SQL Server) e Estrutura de Dados  <br/><br/>
 <strong>Japonês:</strong> Iniciante
 <br/> <br/>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=raul-rolim&theme=codeSTACKr"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=codeSTACKr" align = top width="30%"> 
+<img src = "[![GitHub Streak](https://github-readme-streak-stats-two-puce.vercel.app?user=raul-rolim&theme=merko&border_radius=4&card_width=480)](https://git.io/streak-stats)"> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-rolim&layout=compact&theme=merko" align = top width="30%"> 
