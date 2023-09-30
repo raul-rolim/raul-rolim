@@ -26,7 +26,7 @@ Banco de Dados (SQL Server) e Estrutura de Dados  <br/><br/>
 <strong>Biblioteca:</strong> Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>
 <strong>Banco de Dados:</strong> PostgreSQL, MySQL e SQL Server
 
-## Idiomas
+## 📚Idiomas
 
 <strong>Português:</strong> Nativo  
 <strong>Inglês:</strong> Avançado - C1  
