@@ -21,7 +21,7 @@ Estrutura de Dados (Java) e Linux  <br/><br/>
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-<strong>Linguagens:</strong> Python e Java
+<strong>Linguagens:</strong> Python e Java  
 <strong>Framework:</strong> Pytest (TDD)  
 <strong>Biblioteca:</strong> Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>
 <strong>Banco de Dados:</strong> PostgreSQL, MySQL e SQL Server
