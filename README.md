@@ -14,7 +14,7 @@ Estágio na área de tecnologia (desenvolvimento de software, inteligência arti
 Tornar-se um polímata da área de tecnologia 
 
 ## 🔎Aprendendo Atualmente 
-Estrutura de Dados (Java) e Linux  <br/><br/>
+Python (TensorFlow) e Machine Learning  <br/><br/>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=merko">
 </p>
