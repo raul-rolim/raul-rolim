@@ -10,8 +10,8 @@
 
 
 ## 💻Objetivo 
-Estágio na área de tecnologia (desenvolvimento de software, inteligência artificial, machine learning, data science ou engenharia de software)
-Tornar-se um polímata da área de tecnologia 
+* Estágio na área de tecnologia (desenvolvimento de software, inteligência artificial, machine learning, data science ou engenharia de software)
+* Tornar-se um polímata da área de tecnologia 
 
 ## 🔎Aprendendo Atualmente 
 * Desenvolvimento de API com FastAPI  
