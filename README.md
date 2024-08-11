@@ -10,7 +10,7 @@
 
 
 ## 💻Objetivo 
-* Estágio na área de tecnologia (desenvolvimento de software, inteligência artificial, machine learning, data science ou engenharia de software)
+* Estágio na área de tecnologia (desenvolvimento backend, inteligência artificial, machine learning, data science ou engenharia de software)
 * Tornar-se um polímata da área de tecnologia 
 
 ## 🔎Aprendendo Atualmente 
@@ -23,9 +23,9 @@
 ## 💡Experiência (Projetos Acadêmicos)
 
 <strong>Linguagens:</strong> Python e Java  
-<strong>Framework:</strong> Pytest (TDD)  
-<strong>Biblioteca:</strong> Numpy, Pandas, ABC, RegEx, Matplotlib e Seaborn<br/>
-<strong>Banco de Dados:</strong> PostgreSQL, MySQL e SQL Server
+<strong>Framework:</strong> Pytest (TDD), Django e SpringBoot (básico)  
+<strong>Biblioteca:</strong> FastAPI, Matplotlib, Tkinter, CustomTkinter e Swing<br/>
+<strong>Banco de Dados:</strong> PostgreSQL, SQLite3 e SQL Server
 
 ## 📚Idiomas
 
