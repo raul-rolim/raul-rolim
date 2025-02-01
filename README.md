@@ -21,7 +21,7 @@
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-<strong>Linguagens:</strong> Python 
+<strong>Linguagens:</strong> Python  
 <strong>Biblioteca:</strong> Pygal, Matplotlib, Tkinter e CustomTkinter<br/>
 <strong>Banco de Dados:</strong> PostgreSQL, SQLite3 e SQL Server
 
