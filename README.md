@@ -10,28 +10,25 @@
 
 
 ## 💻Objetivo 
-* Estágio na área de tecnologia (desenvolvimento backend, inteligência artificial, machine learning, data science ou engenharia de software)
-* Tornar-se um polímata da área de tecnologia 
+* Estágio em Data Science
 
 ## 🔎Aprendendo Atualmente 
-* Desenvolvimento de API com FastAPI  
-* TensorFlow e Machine Learning  <br/><br/>
+* Ferramentas para plotagem de gráficos (matplotlib e pygal)    
+* Excel  <br/><br/>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=raul-rolim&theme=merko">
 </p>
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-<strong>Linguagens:</strong> Python e Java  
-<strong>Framework:</strong> Pytest (TDD), Django e SpringBoot (básico)  
-<strong>Biblioteca:</strong> FastAPI, Matplotlib, Tkinter, CustomTkinter e Swing<br/>
+<strong>Linguagens:</strong> Python 
+<strong>Biblioteca:</strong> Pygal, Matplotlib, Tkinter e CustomTkinter<br/>
 <strong>Banco de Dados:</strong> PostgreSQL, SQLite3 e SQL Server
 
 ## 📚Idiomas
 
 <strong>Português:</strong> Nativo  
 <strong>Inglês:</strong> Avançado - C1  
-<strong>Japonês:</strong> Iniciante
 <br/> <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats-two-puce.vercel.app?user=raul-rolim&theme=merko&border_radius=4&card_width=480)](https://git.io/streak-stats)
