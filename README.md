@@ -22,7 +22,7 @@
 
 ## 💡Experiência (Projetos Acadêmicos)
 
-<strong>Linguagen:</strong> Python  
+<strong>Linguagem:</strong> Python  
 <strong>Bibliotecas:</strong> Pygal, Matplotlib, Pygal, Numpy, Pandas, Tkinter e CustomTkinter<br/>
 <strong>Banco de Dados:</strong> PostgreSQL, SQLite3 e SQL Server   
 <strong>Outras Ferramentas:</strong> Excel e PowerBI
