@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raul-rolim&style=plastic&color=FF4430" width="15%">
 </p>
-<a href="https://www.linkedin.com/in/raul-de-luca-roberto-rolim-a5325a17a/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="8%" ></a>
-<a href="mailto:rauldelucaroberto@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="9%" hspace="11"></a>
-
-
 
 ## 💻Objetivo 
 * Iniciar minha carreira profissional na área de Data Science (estágio)
@@ -31,4 +27,3 @@
 
 <strong>Português:</strong> Nativo  
 <strong>Inglês:</strong> Avançado - C1  
-
