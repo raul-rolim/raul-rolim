@@ -1,7 +1,5 @@
 # Bem Vindo ao Meu Perfil
 
-<img src = "https://w0.peakpx.com/wallpaper/432/891/HD-wallpaper-rog-8-bit-republic-of-gamers-games-artist-artwork-digital-art-artstation.jpg">
-
 ## 💻Objetivo 
 * Iniciar minha carreira profissional na área de Data Science (estágio)
 * Aprimorar minhas habilidade técnicas e soft skills
