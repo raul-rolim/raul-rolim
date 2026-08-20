@@ -1,19 +1,24 @@
 # Bem Vindo ao Meu Perfil
 
 ## 💻Objetivo 
-* Iniciar minha carreira profissional na área de Data Science (estágio)
+* Ingressar no Mercado de TI como Júnior em Desenvolvimento Python ou em Análise de Dados
 * Aprimorar minhas habilidade técnicas e soft skills
 
 ## 🔎Aprendendo Atualmente 
 * Machine Learning com Tensorflow e Keras  
-* PowerBI  <br/><br/>
+* FastAPI
+* Automação Web e Desktop (Selenium, pyautogui, Playwright)
+* Sistema de Logs
+* Redis
 
 ## 💡Experiência (Projetos Acadêmicos)
 
 <strong>Linguagem:</strong> Python  
-<strong>Bibliotecas:</strong> Pygal, Matplotlib, Pygal, Numpy, Pandas, Tkinter e CustomTkinter<br/>
-<strong>Banco de Dados:</strong> PostgreSQL, SQLite3 e SQL Server   
-<strong>Outras Ferramentas:</strong> Excel e PowerBI
+<strong>Dependências:</strong> tkinter, fastapi, redis, sqlalchemy e psycopg2<br/>
+<strong>Dados:</strong> pandas e matplotlib<br/>
+<strong>Automação:</strong> pyautogui, pygetwindow, selenium, playwright e beautifulSoup<br/>
+<strong>Banco de Dados:</strong> PostgreSQL, SQLite3, SQL Server e Redis   
+<strong>Outras Ferramentas:</strong> Excel, Docker e Git/Github
 
 ## 📚Idiomas
 
